@@ -2,7 +2,6 @@
 
 This sandbox will be used to help me learn how to play in the sand.
 
-<!DOCTYPE html>
 <html>
   <body>
     
@@ -14,4 +13,5 @@ This sandbox will be used to help me learn how to play in the sand.
     
     </body>
     </html>
-    
+
+
